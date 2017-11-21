@@ -3,7 +3,7 @@ Android Task for Yandex Mobile Development School 2015
 
 ### Download [.apk](/app/app-release.apk) file
 
-![ScreenShoot](https://spb.hh.ru/photo/468055419.png?t=1468424468&h=00MO3DZ4Mw98Pj0e8zzuvA)
+![ScreenShoot](https://spb.hh.ru/photo/468055419.png?t=1511309484&h=m0_gR2pWGvwjy0J-tOMBHg)
 
 # Task:
 1. Запрашивать дерево категорий товаров и услуг по адресу https://money.yandex.ru/api/categories-list .
